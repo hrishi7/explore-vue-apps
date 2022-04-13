@@ -1,0 +1,10 @@
+1. completed topics for vue 
+
+- routing 
+- creating reusable components
+- data binding 
+- passing props and event emmitting 
+- composition api
+- options api
+- how pinia works, flow of te state values
+- created sample CRUD app with dummy data to use pinia.
